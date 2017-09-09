@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1062240900624",
+    "firebase_url": "https://electricapp-7bbed.firebaseio.com",
+    "project_id": "electricapp-7bbed",
+    "storage_bucket": "electricapp-7bbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062240900624:android:96996b4e309c7868",
+        "android_client_info": {
+          "package_name": "com.electricapp.electric.electricapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062240900624-lu8rtsthjreh11k1qpuj1kmfbd42gmcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.electricapp.electric.electricapp",
+            "certificate_hash": "3cd652b711980cc16eae9f2ee211d827053902c7"
+          }
+        },
+        {
+          "client_id": "1062240900624-mcogh28ou82cj4o7s0acnf0mnnd803op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1WUKWJwTSEJNKduT6KPPEdGkkVJFdC30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062240900624-mcogh28ou82cj4o7s0acnf0mnnd803op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
